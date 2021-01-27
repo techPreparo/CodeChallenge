@@ -26,35 +26,27 @@ A tarefa consiste em clonar o frontend (ReactJS) "Dados Básicos" e "Localizaç�
     - Boas práticas de programação (indentação, acoplamento, nomes de variáveis etc.);
     - Bom senso ao seguir instruções;
 
----
-
 ## Cadastro
 
 -   O usuário deve ser capaz de criar uma conta (utilizando Firebase Auth);
 -   Caso o usuário já possua uma conta, ele pode facilmente navegar para a página de login;
-
----
-<br>
 
 ## Login
 
 -   O usuário deve ser capaz de fazer login na plataforma utilizando sua conta criada anteriormente;
 -   O usuário deve ser capaz de facilmente navegar para a página de cadastro caso ainda não possua uma conta;
 
----
 
 ## Dados Básicos
 
 -   O usuário precisa ser capaz de salvar/atualizar suas informações (inclusive email e foto de perfil);
 -   O _layout_ da página deve ser fiel, na medida do possível, ao da página original. A tipografia e os ícones podem ser arbitrários desde que sejam adequados ao contexto;
 
----
 
 ## Localização
 
 -   O usuário precisa ser capaz de atualizar suas informações de localização;
 
----
 
 ## Algumas considerações sobre a conexão com os bancos de dados
 
@@ -64,7 +56,6 @@ A tarefa consiste em clonar o frontend (ReactJS) "Dados Básicos" e "Localizaç�
 -   Se o banco de dados _MongoDB_ for hospedado no _MongoDB Atlas_, a equipe da Preparo deve ter acesso para leitura e escrita;
 -   A equipe da Preparo deve ter acesso ao projeto do _Firebase_;
 
----
 
 ## Acesso aos projetos
 
