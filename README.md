@@ -70,4 +70,4 @@ Para dar acesso aos projetos, convide `tech@preparovc.com` para participar do pr
 Por questões de simplificação, não é necessário esconder as variáveis de ambiente no `.gitignore`.
 
 **3. Pode usar pacotes como `express` para o desenvolvimento do _backend_?**<br>
-Sim, é permitido usar pacotes como `express`, `mongoose`, `morgan` e/ou outros que o candidato achar necessários para o desenvolvimento do _backend_.
+Sim, é permitido usar pacotes como `express`, `mongoose`, `morgan` e/ou outros que o candidato achar necessário para o desenvolvimento do _backend_.
