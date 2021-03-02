@@ -58,7 +58,7 @@ A tarefa consiste em clonar o frontend (ReactJS) "Dados Básicos" e "Localizaç�
 
 ## Acesso aos projetos
 
-Para dar acesso aos projetos, convide `tech@preparovc.com` para participar do projeto privado no Github, Firebase e MongoDB Atlas (se necessário). Para o Firebase, permisão de _editor_ é suficiente. Por fim, além de dar acesso aos projetos, preencha o [este formulário](https://forms.gle/eWSU5cArcMyNodiy9).
+Para dar acesso aos projetos, convide `tech@preparovc.com` para participar do projeto privado no Github, Firebase e MongoDB Atlas (se necessário). Para o Firebase, permisão de _editor_ é suficiente. Por fim, além de dar acesso aos projetos, preencha [este formulário](https://forms.gle/eWSU5cArcMyNodiy9).
 
 # FAQ
 
