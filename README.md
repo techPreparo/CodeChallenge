@@ -56,10 +56,9 @@ A tarefa consiste em clonar o frontend (ReactJS) "Dados Básicos" e "Localizaç�
 -   Se o banco de dados _MongoDB_ for hospedado no _MongoDB Atlas_, a equipe da Preparo deve ter acesso para leitura e escrita;
 -   A equipe da Preparo deve ter acesso ao projeto do _Firebase_;
 
-
 ## Acesso aos projetos
 
-Para dar acesso aos projetos, convide `tech@preparovc.com` para participar do projeto privado no Github, Firebase e MongoDB Atlas (se necessário). Para o Firebase, permisão de _editor_ é suficiente.
+Para dar acesso aos projetos, convide `tech@preparovc.com` para participar do projeto privado no Github, Firebase e MongoDB Atlas (se necessário). Para o Firebase, permisão de _editor_ é suficiente. Por fim, além de dar acesso aos projetos, preencha o [este formulário](https://forms.gle/eWSU5cArcMyNodiy9).
 
 # FAQ
 
