@@ -1,6 +1,6 @@
 # Code Challenge
 
-A tarefa consiste em clonar o frontend (ReactJS) "Dados Básicos" e "Localização" de preparovc.com/perfil; O candidato deve desenvolver um backend (NodeJS) capaz de intermediar as requisições entre frontend e MongoDB;
+A tarefa consiste em clonar o frontend (ReactJS) "Dados Básicos" e "Localização" de preparovc.com/perfil; O candidato deve desenvolver um backend (NodeJS) capaz de intermediar as requisições entre frontend e MongoDB; Vale notar que para o processo de frontend apenas o próprio deve ser desenvolvido.
 
 ## Páginas a serem clonadas
 
@@ -70,3 +70,7 @@ Por questões de simplificação, não é necessário esconder as variáveis de 
 
 **3. Pode usar pacotes como `express` para o desenvolvimento do _backend_?**<br>
 Sim, é permitido usar pacotes como `express`, `mongoose`, `morgan` e/ou outros que o candidato achar necessário para o desenvolvimento do _backend_.
+
+
+**3. Estou fazendo o processo de _frontend_, devo fazer todo o challenge?**<br>
+Não! Caso esteja realizando o processo de frontend, apenas essa parte deve ser realizada.
